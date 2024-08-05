@@ -1,4 +1,4 @@
-![snake gif](https://github.com/henriquedevop/henriquedevop/blob/output/github-contribution-grid-snake.gif)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=henriquedevop.henriquedevop" />
 
@@ -39,14 +39,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake gif](https://github.com/henriquedevop/henriquedevop/blob/output/github-contribution-grid-snake.gif)
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
