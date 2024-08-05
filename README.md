@@ -1,3 +1,5 @@
+![snake gif](https://github.com/henriquedevop/henriquedevop/blob/output/github-contribution-grid-snake.gif)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=henriquedevop.henriquedevop" />
 
 <h1 align="center">
