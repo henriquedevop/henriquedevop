@@ -1,67 +1,42 @@
 
+<h1>Hi There! 👋</h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=henriquedevop.henriquedevop" />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
+[![Personal Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Me&logoColor=white&link=https://github.com/henriquedevop)](https://github.com/henriquedevop)
+[![Gmail Badge](https://img.shields.io/badge/-wymuxgh@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wymuxgh@gmail.com)](mailto:wymuxgh@gmail.com)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gustavo+Henrique!;" />
-</h1>
+<!-- <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/> -->
 
-<h3 align="center">A passionate software developer from Brazil ᵇʳ</h3>
+## My name is Gustavo Henrique
+- 👩‍💻 Software Enginner 
+- 🧠 Constant Learning
+- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
+- 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/)
+- 🌐 Passionate about web technology
+- 💡 Love a good challenge 
 
-<br/>
-
-<div align="center">
+<div style="flex-basis: 48%"; align="left">
+  <h3>Skills</h3>
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+  
  
- 💻 I’m constantly learning
- 
- 🌐 Passionate about web development
-
-💡 Love a good challenge
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:wymuxgh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-F66B91?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma," />
+<div style="flex-basis: 48%"; align="left">
+  <h3>Tools & Databases</h3>
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+  
 </div>
 
-<br/>
-<hr/>
+<div align="left">
 
-<hr/>
-
-<h2 align="center">🌐 Stats 🌐</h2>
-<br>
-<div align=center>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquedevop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedevop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedevop&layout=compact)
+  
 </div>
 
-###
-</div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+!+👋;" />
-</h1>
-
-<br/>
