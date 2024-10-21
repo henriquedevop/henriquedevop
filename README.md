@@ -8,12 +8,10 @@
 <!-- <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/> -->
 
 ## My name is Gustavo Henrique
-- 👩‍💻 Software Enginner 
+- 👩‍💻 Aspiring Software Engineer
 - 🧠 Constant Learning
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
-- 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/)
-- 🌐 Passionate about web technology
-- 💡 Love a good challenge 
+- 🚀 Interested in full-stack development
+- 🌐 Passionate about Web Development
 
 <div style="flex-basis: 48%"; align="left">
   <h3>Skills</h3>
