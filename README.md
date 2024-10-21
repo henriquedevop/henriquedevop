@@ -5,8 +5,6 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Me&logoColor=white&link=https://github.com/henriquedevop)](https://github.com/henriquedevop)
 [![Gmail Badge](https://img.shields.io/badge/-wymuxgh@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wymuxgh@gmail.com)](mailto:wymuxgh@gmail.com)
 
-<!-- <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/> -->
-
 ## My name is Gustavo Henrique
 - 👩‍💻 Aspiring Software Engineer
 - 🧠 Constant Learning
