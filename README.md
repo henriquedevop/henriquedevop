@@ -1,7 +1,7 @@
 
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-henrique-/)](https://www.linkedin.com/in/g-henrique-/)
 [![Personal Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Me&logoColor=white&link=https://github.com/henriquedevop)](https://github.com/henriquedevop)
 [![Gmail Badge](https://img.shields.io/badge/-wymuxgh@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wymuxgh@gmail.com)](mailto:wymuxgh@gmail.com)
 
