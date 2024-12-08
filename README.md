@@ -14,7 +14,7 @@
 <div style="flex-basis: 48%"; align="left">
   <h3>Skills</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux&perline=10)](https://skillicons.dev)
  
 </div>
 
